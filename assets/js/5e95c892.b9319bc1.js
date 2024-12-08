@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcryptic_cruciverbalism=self.webpackChunkcryptic_cruciverbalism||[]).push([[647],{7121:(e,r,c)=>{c.r(r),c.d(r,{default:()=>n});c(6540);var s=c(4164),u=c(1003),a=c(7559),i=c(2831),t=c(781),l=c(4848);function n(e){return(0,l.jsx)(u.e3,{className:(0,s.A)(a.G.wrapper.docsPages),children:(0,l.jsx)(t.A,{children:(0,i.v)(e.route.routes)})})}}}]);
