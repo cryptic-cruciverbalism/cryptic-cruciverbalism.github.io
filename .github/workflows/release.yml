@@ -5,19 +5,23 @@ on:
     branches:
       - main  # Trigger on pushes to the 'main' branch.
 
+permissions:
+  contents: write
+  pull-requests: write
+
 jobs:
   deploy:
-    name: Deploy to GitHub Pages
+    name: Create Release PR
     runs-on: ubuntu-latest
 
     steps:
-      - name: Release Please
-        uses: google-github-actions/release-please-action@v3
+      - uses: googleapis/release-please-action@v4
+        name: Release Please
         id: release
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.RELEASE_PLEASE_GITHUB_TOKEN }}
           release-type: node
-          package-name: effective-shell
+          package-name: cryptic-cruciverbalism
           # We include 'docs' in the changelog types, this means document
           # changes will be in the CHANGELOG and also that docs changes will
           # trigger a patch release. This is essential as we basically are

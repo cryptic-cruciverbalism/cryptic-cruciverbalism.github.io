@@ -7,18 +7,18 @@ import type * as Preset from "@docusaurus/preset-classic";
 const config: Config = {
   title: "Cryptic Cruciverbalism",
   tagline: "Master the Art of Cryptic Crosswords",
-  favicon: "https://your-github-username.github.io",
+  favicon: "https://cryptic-cruciverbalism.github.io",
 
   // Set the production url of your site here
-  url: "https://your-docusaurus-site.example.com",
+  url: "https://cryptic-cruciverbalism.github.io",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "dwmkerr", // Usually your GitHub org/user name.
-  projectName: "cryptic-cruciverbalism-website", // Usually your repo name.
+  organizationName: "cryptic-cruciverbalism", // Usually your GitHub org/user name.
+  projectName: "website", // Usually your repo name.
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
