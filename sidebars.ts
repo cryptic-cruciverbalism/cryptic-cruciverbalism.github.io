@@ -1,4 +1,4 @@
-import type {SidebarsConfig} from '@docusaurus/plugin-content-docs';
+import type { SidebarsConfig } from "@docusaurus/plugin-content-docs";
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
@@ -15,19 +15,19 @@ import type {SidebarsConfig} from '@docusaurus/plugin-content-docs';
 const sidebars: SidebarsConfig = {
   sidebar: [
     {
-      type: 'doc',
-      id: 'index',
-      label: 'Home',
+      type: "doc",
+      id: "index",
+      label: "Home",
     },
     {
-      type: 'doc',
-      id: 'videos',
-      label: 'Live Solve Videos',
+      type: "doc",
+      id: "videos",
+      label: "Live Solve Videos",
     },
     {
-      type: 'category',
-      label: 'Mechanics',
-      items: ['mechanics/anagrams', 'mechanics/homophones'],
+      type: "category",
+      label: "Mechanics",
+      items: ["mechanics/anagrams", "mechanics/homophones", "mechanics/voice"],
     },
   ],
 };
