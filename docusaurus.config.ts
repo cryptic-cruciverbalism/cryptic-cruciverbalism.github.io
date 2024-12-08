@@ -18,7 +18,7 @@ const config: Config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: "cryptic-cruciverbalism", // Usually your GitHub org/user name.
-  projectName: "website", // Usually your repo name.
+  projectName: "cryptic-cruciverbalism.github.io", // Usually your repo name.
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -42,7 +42,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
+            "https://github.com/cryptic-cruciverbalism/cryptic-cruciverbalism.github.io/tree/main/packages/create-docusaurus/templates/shared/",
         },
       } satisfies Preset.Options,
     ],
@@ -54,8 +54,8 @@ const config: Config = {
     navbar: {
       title: "Cryptic Cruciverbalism",
       logo: {
-        alt: "My Site Logo",
-        src: "img/logo.svg",
+        alt: "Cryptic Cruciverbalism Logo",
+        src: "img/cryptic-cruciverbalism-logo.jpg",
       },
       items: [
         {
@@ -65,7 +65,7 @@ const config: Config = {
           label: "Home",
         },
         {
-          href: "https://github.com/facebook/docusaurus",
+          href: "https://github.com/cryptic-cruciverbalism/cryptic-cruciverbalism.github.io",
           label: "GitHub",
           position: "right",
         },
