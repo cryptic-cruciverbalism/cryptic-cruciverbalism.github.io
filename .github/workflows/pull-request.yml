@@ -1,0 +1,39 @@
+name: Pull Request Workflow
+
+on:
+  pull_request:
+    branches:
+      - main  # Run this workflow for PRs targeting the 'main' branch.
+
+jobs:
+  check-and-build:
+    name: Check, Lint, and Build
+    runs-on: ubuntu-latest
+
+    steps:
+      # Checkout code
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      # Setup Node.js
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          cache: 'npm'
+
+      # Install dependencies
+      - name: Install Dependencies
+        run: npm ci
+
+      # Lint the code
+      - name: Lint Code with ESLint
+        run: npm run lint
+
+      # Check for TypeScript errors
+      - name: TypeScript Type Check
+        run: npm run typecheck --noEmit
+
+      # Build the Docusaurus site
+      - name: Build Docusaurus Site
+        run: npm run build
