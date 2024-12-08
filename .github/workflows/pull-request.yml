@@ -32,33 +32,8 @@ jobs:
 
       # Check for TypeScript errors
       - name: TypeScript Type Check
-        run: npm run tsc --noEmit
+        run: npm run typecheck --noEmit
 
       # Build the Docusaurus site
       - name: Build Docusaurus Site
         run: npm run build
-
-  release-please:
-    name: Create Release PR with Release Please
-    needs: check-and-build
-    runs-on: ubuntu-latest
-
-    steps:
-      # Checkout code
-      - name: Checkout Repository
-        uses: actions/checkout@v3
-
-      # Setup Node.js
-      - name: Setup Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: 16
-          cache: 'npm'
-
-      # Install release-please
-      - name: Install release-please
-        run: npm install -g release-please
-
-      # Run release-please to create a release PR
-      - name: Create Release PR
-        run: release-please release-pr --repo-url=${{ github.repository }} --package-name=${{ github.repository }} --token=${{ secrets.GITHUB_TOKEN }}
