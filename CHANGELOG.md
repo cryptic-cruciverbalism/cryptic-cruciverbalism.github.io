@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.1](https://github.com/cryptic-cruciverbalism/website/compare/v0.1.0...v0.1.1) (2024-12-08)
+
+
+### Bug Fixes
+
+* release please configuration ([802197b](https://github.com/cryptic-cruciverbalism/website/commit/802197b6e48adfa0c83defeeb8e517fb69add59b))
+
 ## 0.1.0 (2024-12-08)
 
 
