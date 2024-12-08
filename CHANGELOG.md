@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.2](https://github.com/cryptic-cruciverbalism/website/compare/v0.1.1...v0.1.2) (2024-12-08)
+
+
+### Bug Fixes
+
+* npm ci in release ([d036a97](https://github.com/cryptic-cruciverbalism/website/commit/d036a974fd7b136d6dfdd77151c7d966c260fdb9))
+
 ## [0.1.1](https://github.com/cryptic-cruciverbalism/website/compare/v0.1.0...v0.1.1) (2024-12-08)
 
 
