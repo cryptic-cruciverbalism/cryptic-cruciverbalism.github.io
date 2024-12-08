@@ -57,6 +57,7 @@ jobs:
         with:
           name: artifacts
           path: artifacts
+        if: ${{ steps.release.outputs.release_created }}
 
       # Deploy the website.
       - name: Deploy
