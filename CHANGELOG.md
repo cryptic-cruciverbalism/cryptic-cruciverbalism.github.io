@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.1.3](https://github.com/cryptic-cruciverbalism/cryptic-cruciverbalism.github.io/compare/v0.1.2...v0.1.3) (2024-12-09)
+
+
+### Bug Fixes
+
+* setup node ([353b132](https://github.com/cryptic-cruciverbalism/cryptic-cruciverbalism.github.io/commit/353b132dbc1d931aa44fe2fd3f4edbc610b85610))
+* try and fix release ([c9ebdc3](https://github.com/cryptic-cruciverbalism/cryptic-cruciverbalism.github.io/commit/c9ebdc3c37d5780c8dc84f2f76f213012fd8b547))
+
 ## [0.1.2](https://github.com/cryptic-cruciverbalism/website/compare/v0.1.1...v0.1.2) (2024-12-08)
 
 
