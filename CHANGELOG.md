@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.0](https://github.com/cryptic-cruciverbalism/cryptic-cruciverbalism.github.io/compare/v0.1.4...v0.2.0) (2024-12-10)
+
+
+### Features
+
+* analytics and adsense integration ([02558bc](https://github.com/cryptic-cruciverbalism/cryptic-cruciverbalism.github.io/commit/02558bcd1b57a151d022340b28e742a7772107cb))
+
 ## [0.1.4](https://github.com/cryptic-cruciverbalism/cryptic-cruciverbalism.github.io/compare/v0.1.3...v0.1.4) (2024-12-10)
 
 
