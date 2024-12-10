@@ -41,6 +41,7 @@ jobs:
         with:
           node-version: 20
           cache: 'npm'
+        if: ${{ steps.release.outputs.release_created }}
 
       # Install dependencies
       - name: Install Dependencies
