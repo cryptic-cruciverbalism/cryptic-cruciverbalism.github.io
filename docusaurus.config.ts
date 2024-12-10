@@ -47,6 +47,10 @@ const config: Config = {
           editUrl:
             "https://github.com/cryptic-cruciverbalism/cryptic-cruciverbalism.github.io/tree/main/packages/create-docusaurus/templates/shared/",
         },
+        gtag: {
+          trackingID: "G-810WFKRNY4",
+          anonymizeIP: true,
+        },
       } satisfies Preset.Options,
     ],
   ],
@@ -117,6 +121,12 @@ const config: Config = {
       darkTheme: prismThemes.dracula,
     },
   } satisfies Preset.ThemeConfig,
+  scripts: [
+    {
+      src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6181461532532600",
+      async: true,
+    },
+  ],
 };
 
 export default config;
