@@ -1,5 +1,5 @@
 ---
-title: Voice
+title: Voices
 ---
 
 The **Voice** mechanic indicates that we might use part of the clue said in a specific certain accent or style. This mechanic is similar in many ways to the [Homophone Mechanic](./homophones.md) and the two may be combined.
@@ -29,4 +29,8 @@ Common uses of this clue might be to say something with a Scottish accent, an Am
 
 The following words or fragments might indicate that you have a 'Voice' clue:
 
-- says
+- As [Person/Nationality] says
+- Cockney (says/said/etc)
+- In [East London/Other Region]
+- For Yank (e.g. American Accent)
+

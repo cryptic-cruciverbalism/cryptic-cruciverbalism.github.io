@@ -51,3 +51,6 @@ Quick and dirty list of tasks:
 - [ ] feat: Google Analytics
 - [ ] feat: Google AdSense
 - [ ] docs: books
+- [ ] docs(tactics): contrived words
+- [ ] docs(tactics): straight part
+- [ ] docs(tactics): misdirection

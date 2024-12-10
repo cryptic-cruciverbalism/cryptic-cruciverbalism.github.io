@@ -2,12 +2,14 @@ import { themes as prismThemes } from "prism-react-renderer";
 import type { Config } from "@docusaurus/types";
 import type * as Preset from "@docusaurus/preset-classic";
 
+import packageJson from "./package.json";
+
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
   title: "Cryptic Cruciverbalism",
   tagline: "Master the Art of Cryptic Crosswords",
-  favicon: "https://cryptic-cruciverbalism.github.io",
+  favicon: "img/favicon.ico",
 
   // Set the production url of your site here
   url: "https://cryptic-cruciverbalism.github.io",
@@ -90,10 +92,6 @@ const config: Config = {
               label: "Discord",
               href: "https://discordapp.com/invite/docusaurus",
             },
-            {
-              label: "X",
-              href: "https://x.com/docusaurus",
-            },
           ],
         },
         {
@@ -106,7 +104,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Cryptic Cruciverbalism Technical Lead. Built with Docusaurus.`,
+      copyright: `Version ${packageJson.version}. Copyright © ${new Date().getFullYear()} Cryptic Cruciverbalism Technical Lead. Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,

@@ -27,7 +27,12 @@ const sidebars: SidebarsConfig = {
     {
       type: "category",
       label: "Mechanics",
-      items: ["mechanics/anagrams", "mechanics/homophones", "mechanics/voice"],
+      items: [
+        // "mechanics/anagrams",
+        // "mechanics/homophones",
+        // "mechanics/spoonerisms",
+        "mechanics/voices",
+      ],
     },
   ],
 };
