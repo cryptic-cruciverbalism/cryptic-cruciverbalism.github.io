@@ -8,7 +8,8 @@ import packageJson from "./package.json";
 
 const config: Config = {
   title: "Cryptic Cruciverbalism",
-  tagline: "Master the Art of Cryptic Crosswords",
+  tagline:
+    "Guidance on Tactics, Strategies, Mechanics, Abbreviations and more to help you learn about Cryptic Crosswords",
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
@@ -69,6 +70,11 @@ const config: Config = {
         {
           href: "https://github.com/cryptic-cruciverbalism/cryptic-cruciverbalism.github.io",
           label: "GitHub",
+          position: "right",
+        },
+        {
+          href: "https://chromewebstore.google.com/detail/crossword-companion/olnojhhheedghnpnfaompfeombpcpbnk",
+          label: "Crossword Companion",
           position: "right",
         },
         {

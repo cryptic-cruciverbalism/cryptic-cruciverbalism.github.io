@@ -34,6 +34,11 @@ const sidebars: SidebarsConfig = {
         "mechanics/voices",
       ],
     },
+    {
+      type: "doc",
+      id: "crossword-companion-extension/index",
+      label: "Crossword Companion",
+    },
   ],
 };
 
