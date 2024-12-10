@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.1](https://github.com/cryptic-cruciverbalism/cryptic-cruciverbalism.github.io/compare/v0.2.0...v0.2.1) (2024-12-10)
+
+
+### Bug Fixes
+
+* add ads.txt for adsense verification ([48eb571](https://github.com/cryptic-cruciverbalism/cryptic-cruciverbalism.github.io/commit/48eb571a6bedffee6b459b59e861928df8eeb5d3))
+
 ## [0.2.0](https://github.com/cryptic-cruciverbalism/cryptic-cruciverbalism.github.io/compare/v0.1.4...v0.2.0) (2024-12-10)
 
 
