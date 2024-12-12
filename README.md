@@ -54,4 +54,7 @@ Quick and dirty list of tasks:
 - [ ] docs(tactics): contrived words
 - [ ] docs(tactics): straight part
 - [ ] docs(tactics): misdirection
+- [ ] docs(mechanics): voice - third example
+- [ ] docs(mechanics): &lit. second example
+- [ ] docs(mechanics): &lit. third example
 - [ ] feat: demonstrate 'search' as a way to get hints on clues (e.g. search for 'cockney' to get 'voices'

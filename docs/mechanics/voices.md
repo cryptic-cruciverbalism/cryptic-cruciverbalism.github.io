@@ -17,7 +17,7 @@ Common uses of this clue might be to say something with a Scottish accent, an Am
   
   - _As Sean Connery says_: suggests a **voice** mechanic, using a Scottish Accent.
   - _unmarried people_: the part of the clue we 'voice' in a Scottish Accent - **singles** (unmarried people) is voiced as **shingles**.
-  - _getting viral disease_: "getting" suggest what follows is our answer, and the straight part is **viral disease** - or **shingles**.
+  - _getting viral disease_: 'getting' suggest what follows is our answer, and the straight part is **viral disease** - or **shingles**.
 
   From [The Guardian Quick Cryptic No 36 by Picaroon](https://www.theguardian.com/crosswords/quick-cryptic/36#1-across)
 </details>

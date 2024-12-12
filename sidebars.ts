@@ -31,6 +31,7 @@ const sidebars: SidebarsConfig = {
         // "mechanics/anagrams",
         // "mechanics/homophones",
         // "mechanics/spoonerisms",
+        "mechanics/and-lit",
         "mechanics/voices",
       ],
     },
