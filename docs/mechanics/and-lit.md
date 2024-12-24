@@ -2,7 +2,7 @@
 title: And Lit.
 ---
 
-The **and lit.** or **&lit.** mechanic is short for 'and literally'. This might not quite be a mechanic, but it is a term you will see in crosswords and describes a particularly elegant and prized type of clue - one which not only functions as a cryptic crossword clue but also reads in its entirety as wordplay on the answer. The entire answer could often be considered a _[cryptic definition](./cryptic-definitions.md)_.
+The **and literally'** mechanic (often abbreviated to '**and lit.**' or '**&lit.**') might not quite be a mechanic, but it is a term you will see in crosswords and describes a particularly elegant and prized type of clue. An &lit. clue is one which not only functions as a cryptic crossword clue but also reads in its entirety as wordplay on the answer. The entire answer could often be considered a _[cryptic definition](./cryptic-definitions.md)_.
 
 ## Examples
 
