@@ -58,3 +58,4 @@ Quick and dirty list of tasks:
 - [ ] docs(mechanics): &lit. second example
 - [ ] docs(mechanics): &lit. third example
 - [ ] feat: demonstrate 'search' as a way to get hints on clues (e.g. search for 'cockney' to get 'voices'
+- [ ] epic: option to publish puzzle, option to list puzzles
