@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.3.0](https://github.com/cryptic-cruciverbalism/cryptic-cruciverbalism.github.io/compare/v0.2.1...v0.3.0) (2024-12-29)
+
+
+### Features
+
+* more &lit. ([db089fe](https://github.com/cryptic-cruciverbalism/cryptic-cruciverbalism.github.io/commit/db089fe9e1e60f7bc2320f7e02b60b427d2e13a5))
+
+
+### Bug Fixes
+
+* broken 'todo' links ([5805517](https://github.com/cryptic-cruciverbalism/cryptic-cruciverbalism.github.io/commit/5805517afaa6c65dfc8472c6b0a6ee65077b32e1))
+
 ## [0.2.1](https://github.com/cryptic-cruciverbalism/cryptic-cruciverbalism.github.io/compare/v0.2.0...v0.2.1) (2024-12-10)
 
 
