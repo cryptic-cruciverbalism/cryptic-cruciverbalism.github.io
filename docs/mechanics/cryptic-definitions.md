@@ -12,7 +12,7 @@ title: Cryptic Definitions
 
   The surface suggests **suit** might be a piece of clothing, this is misdirection and the suit is in fact a **legal case**. The price of a case in court could be the **legal costs**. The **?** at the end of the clue is a hint that the clue might be a cryptic definition.
 
-  From [The Guardian Setter Series - Rufus - Puzzle #4](TODO)
+  From [The Guardian Setter Series - Rufus - Puzzle #4](../todo.md)
 </details>
 
 
