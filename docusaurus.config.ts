@@ -82,7 +82,7 @@ const config: Config = {
           position: "right",
         },
         {
-          href: "https://www.youtube.com/channel/UCs9yHYYcG358Dw34Faa_J1Q",
+          href: "https://www.youtube.com/@CrypticCruciverbalism",
           label: "YouTube - Live Solves",
           position: "right",
         },

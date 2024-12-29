@@ -2,7 +2,9 @@
 title: And Lit.
 ---
 
-The **and lit.** or **&lit.** mechanic is short for 'and literally'. This might not quite be a mechanic, but it is a term you will see in crosswords and describes a particularly elegant and prized type of clue - one which not only functions as a cryptic crossword clue but also reads in its entirety as wordplay on the answer. The entire answer could often be considered a _[cryptic definition](./cryptic-definitions.md)_.
+The **and literally'** mechanic (often abbreviated to '**and lit.**' or '**&lit.**') might not quite be a mechanic, but it is a term you will see in crosswords and describes a particularly elegant and prized type of clue. An &lit. clue is one which not only functions as a cryptic crossword clue but also reads in its entirety as wordplay on the answer.
+
+The entire answer could often be considered a _[cryptic definition](./cryptic-definitions.md)_.
 
 ## Examples
 
@@ -20,6 +22,20 @@ The **and lit.** or **&lit.** mechanic is short for 'and literally'. This might 
   - _red-hot-bad guy_: provides the letters for the anagram.
 
   From [The Guardian Everyman Crossword No 4,077](https://www.theguardian.com/crosswords/everyman/4077#11-across)
+</details>
+
+<details>
+  <summary>**Scandalous author – disturbing eroticist, principally? (4)**</summary>
+
+  Answer: **Sade** ([The Marquis de Sade](https://en.wikipedia.org/wiki/Marquis_de_Sade))
+
+  In this cue **principally** indicates the [acrostic or leading letter](./acrostic.md) mechanic. The leading letters are "Sade".
+
+  This clue is an &lit. because the _entire_ clue also works as a definition - the Marquis de Sade was famous for writing 100 Years of Sodom, a highly violent and sexualised book.
+
+  Leading letter or acrostic clues can be a little easier to make &lit. as there is a lot of flexibility to choose the words used for the leading letters.
+
+  From [The Guardian Everyman Crossword No 4,080](https://www.theguardian.com/crosswords/everyman/4080#8-down)
 </details>
 
 ## Practice Puzzles

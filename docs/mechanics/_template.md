@@ -1,5 +1,5 @@
 ---
-title: Template
+title: Voices & Accents
 ---
 
 The **Voice** or **Accent** mechanic indicates that we might use part of the clue said in a specific certain accent or style. This mechanic is similar in many ways to the [Homophone Mechanic](./homophones.md) and the two may be combined.
