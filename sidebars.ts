@@ -37,6 +37,11 @@ const sidebars: SidebarsConfig = {
     },
     {
       type: "doc",
+      id: "books/index",
+      label: "Books",
+    },
+    {
+      type: "doc",
       id: "crossword-companion-extension/index",
       label: "Crossword Companion",
     },
